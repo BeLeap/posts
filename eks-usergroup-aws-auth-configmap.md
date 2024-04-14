@@ -1,7 +1,7 @@
 ---
 title: "EKS에서 IAM User Group으로 권한주기"
 description: "권한 관리의 한계"
-date: 2022-09-21T00:00:00+09:00
+date: 2022-09-21
 draft: true
 tags: ["AWS"]
 ---
